@@ -30,8 +30,6 @@ In Unity, static instances persist between scenes. However, the objects those va
 🛠️ How to Run
 Engine: Unity (2022.3.43f1 recommended)
 
-Developed in: 2024
-
 Setup: 
 1. Clone the repository.
 2. Open in Unity Hub.
